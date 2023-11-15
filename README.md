@@ -1,5 +1,6 @@
 # Customer-churn-prediction-using-Supervised-machine-learning
-![cc1](https://github.com/mobolajifalugba/Customer-churn-prediction-using-Supervised-machine-learning/assets/51162684/0626213b-0143-4479-b011-fe8b3392b1fe)
+![cc1](https://github.com/mobolajifalugba/Customer-churn-prediction-using-Supervised-machine-learning/assets/51162684/0b0cadf4-3111-4638-8440-8a37b956f2ad)
+
  This repository hosts a Customer Churn Prediction model built using supervised machine learning techniques. The model analyzes historical customer data to identify patterns and factors influencing churn.
  ## Key Features
 - **Data Exploration:** We dive into the dataset to understand the distribution of features, identify correlations, and explore patterns within the data.
