@@ -1,13 +1,12 @@
 # Customer-churn-prediction-using-Supervised-machine-learning
-![heart3](https://github.com/mobolajifalugba/Heart-Disease-Predictions-using-Supervised-Machine-Learning/assets/51162684/cdff61e3-a8e0-40a5-87e9-29437b73e8d8)
-
-This project employs various machine learning algorithms to build a predictive model. The goal is to assist in early diagnosis and risk assessment for heart disease, ultimately contributing to improved patient care.
-## Key Features
+![cc2](https://github.com/mobolajifalugba/Customer-churn-prediction-using-Supervised-machine-learning/assets/51162684/4acf1a15-5bbc-4bff-9158-f0bd9b2b854a)
+ This repository hosts a Customer Churn Prediction model built using supervised machine learning techniques. The model analyzes historical customer data to identify patterns and factors influencing churn.
+ ## Key Features
 - **Data Exploration:** We dive into the dataset to understand the distribution of features, identify correlations, and explore patterns within the data.
 - **Data Preprocessing:** Data cleaning, handling missing values, and feature engineering are performed to prepare the dataset for model training.
 - **Model Selection:** Multiple machine learning algorithms are considered, including Logistic Regression, Gradient boosting, and Naive Bayes model. The best-performing model is selected based on evaluation metrics.
 - **Model Evaluation:** Model performance is assessed using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC to gauge the model's predictive power.
-- **Predictive Insights:** We provide insights into the most influential features contributing to heart disease risk.
+- **Predictive Insights:** We provide insights into the most influential features contributing to Customer churn.
 
 ## Usage
 - Open the Jupyter Notebook to access the project code and analysis.
